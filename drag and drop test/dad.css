@@ -1,0 +1,49 @@
+.dnd{
+    cursor: move;
+}
+
+#divtable{
+    height:750px;
+    width: 200px;
+    float: left;
+    margin-right: 10px;
+    border: 3px solid blue;
+    text-align: center;
+}
+
+#div1{
+    height:250px;
+    width: 250px;
+    float:left;
+    margin-top: 100px;
+    margin-left: 10px;
+    border: 3px solid green;
+    text-align: center;
+}
+
+#div2{
+    height:250px;
+    width: 250px;
+    float: left;
+    margin-left: 10px;
+    margin-top: 100px;
+    border: 3px solid blue;
+    text-align: center;
+}
+
+#div3{
+    height:343px;
+    width: 245px;
+    float: left;
+    margin-left: 100px;
+    border: 1px solid blue;
+    text-align: center;
+}
+
+.littlediv{
+    cursor: move;
+    height: 47px;
+    width: 47px;
+    float: left;
+    border: 1px solid black;
+}
