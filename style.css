@@ -1,115 +1,16 @@
-body
-{
-    background-color: #DCDCDC;
-}
-#div1
-{
-    background-color: grey;
-    position: absolute;
-    left: 7%;
-    top: 2%;
-    width: 86%;
-    height: 10%;
- 
-}
-#div2
-{
-    background-color: grey;
-    position: absolute;
-    left: 7%;
-    top: 15%;
-    width: 20%;
-    height: 70%;
-}
-#div3
-{
-    background-color: grey;
-    position: absolute;
-    left: 30%;
-    top: 15%;
-    width: 20%;
-    height: 35%;
-}
-#div4
-{
-    background-color: grey;
-    position: absolute;
-    left: 50.5%;
-    top: 15%;
-    width: 20%;
-    height: 35%;
-}
-#div5
-{
-    background-color: grey;
-    position: absolute;
-    left: 73%;
-    top: 15%;
-    width: 20%;
-    height: 60%;
-}
-#div6
-{
-    background-color: grey;
-    position: absolute;
-    left: 30%;
-    top: 50.25%;
-    width: 20%;
-    height: 34.75%;
-}
-#div7
-{
-    background-color: grey;
-    position: absolute;
-    left: 50.5%;
-    top: 50.25%;
-    width: 20%;
-    height: 34.75%;
-}
-#div8
-{
-    background-color: grey;
-    position: absolute;
-    left: 73%;
-    top: 76%;
-    width: 20%;
-    height: 9%;
-}
 
 
-nav
-{
-
-    list-style-type: none;
-    
+.module {
+	max-height: 16.66%;
 }
 
-
-#top
-{
-    padding: 38px 0 0px 600px;
-    font-size: 20px;
-    
+.navbar {
+	background-color: #efefef;
+	opacity: 50%;
 }
 
-#top li
-{
-    display: inline-block;
-    margin-right: 50px;
-
+.search {
+	width: 60%;
+	margin-top: 2px;
+	padding-left: 20%;
 }
-
-#left
-{
-    
-}
-
-#left li 
-{
-    list-style-type: none;
-    padding-top: 40px;
-}
-
-
-
-
