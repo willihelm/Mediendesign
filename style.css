@@ -33,7 +33,8 @@
 }
 
 .fixed-left {
-	position:fixed; left:0;
+	position: fixed;
+	margin-right: 10px;
 }
 
 .body {
